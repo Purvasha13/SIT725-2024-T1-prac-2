@@ -1,0 +1,17 @@
+{
+  "name": "sit725-2024-t1-prac-2",
+  "version": "1.0.0",
+  "description": "practical-2",
+  "main": "script.js",
+  
+  "scripts": {
+    "test": "\"echo \\\\\\\"Error: No tests\\\\\\ && exit 1\",",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purvasha13/SIT725-2024-T1-prac-2.git"
+  },
+  "author": "Purvasha Padhy",
+  "license": "ISC"
+}
